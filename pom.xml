@@ -31,7 +31,6 @@
             <artifactId>allure-junit4</artifactId>
             <version>2.20.1</version>
             <scope>test</scope>
-        </dependency>
     </dependencies>
 
     <properties>
